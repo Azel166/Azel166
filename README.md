@@ -49,12 +49,12 @@ Profile = {
     <img src="https://streak-stats.demolab.com?user=datbh06&theme=github-dark-blue" alt="datbh">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datbh06&layout=compact&include_all_commits=true&theme=github_dark&count_private=true" alt="datbh">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=datbh06&layout=compact&include_all_commits=true&theme=github_dark&count_private=true" alt="datbh">
 </div>
 <br>
 
 <div align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=datbh06"> -->
+
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Azel166&label=Profile%20Views&color=1&icon=5&pretty=false" />
   </a>
