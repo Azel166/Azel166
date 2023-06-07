@@ -20,11 +20,10 @@ Profile = {
     "Majors": [Computer Science, Software Engineering],
     "Major_detail": [
         "I initially chose ME in my freshman",
-        "Since my sophomore, I had started self-studying CS and would love to develop further in this major",
-        "My studying in information technology currently has been > 2.5 years"
+        "Since my sophomore, I had started self-studying CS and would love to develop further in this major."
     ],
-    "Current_focused_fields": [Algorithms & Data Structure, Frontend, Backend, Cloud Services],
-    "University": "HANU",
+    "Current_focused_fields": [Algorithms & Data Structure, Frontend, Backend],
+    "University": ["HANU","Hanoi University"]
     "Degree": "Bachelor of Information Technology"
 }
 ```
