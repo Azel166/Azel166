@@ -33,7 +33,7 @@ Profile = {
 <h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tools </h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,c,py,flask,django,html,css,js,ts,react,bootstrap,pytorch,sqlite,docker,heroku,gcp,firebase,git,github,githubactions,unity,linux,visualstudio,vscode,matlab,autocad,arduino">
+        <img src="https://skillicons.dev/icons?i=java,c,py,html,css,js,ts,react,bootstrap,sqlite,docker,heroku,git,github,githubactions,unity,linux,visualstudio,vscode">
     </a>
 </div>
 <br>
@@ -55,6 +55,6 @@ Profile = {
 <div align="center">
 
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Azel166&label=Profile%20Views&color=1&icon=5&pretty=false" />
+    <img src="https://visitcount.itsvg.in/api?id=datbh06&label=Profile%20Views&color=1&icon=5&pretty=false" />
   </a>
 </div>
