@@ -23,7 +23,7 @@ Profile = {
         "Since my sophomore, I had started self-studying CS and would love to develop further in this major."
     ],
     "Current_focused_fields": [Algorithms & Data Structure, Frontend, Backend],
-    "University": ["HANU","Hanoi University"]
+    "University": ["HANU"," Hanoi University"]
     "Degree": "Bachelor of Information Technology"
 }
 ```
