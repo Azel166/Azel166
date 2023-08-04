@@ -54,7 +54,7 @@ Profile = {
 
 <div align="center">
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=datbh06&label=Profile%20Views&color=1&icon=5&pretty=false" />
-  </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=datbh06&label=Profile%20Views&color=1&pretty=true" />
+</a>
 </div>
