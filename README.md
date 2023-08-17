@@ -17,7 +17,7 @@
 Profile = {
     "Names": ["Dat", "Bui Huu", "Bùi Hữu Đạt"],
     "Nationality": ["Vietnam", "Việt Nam"],
-    "Majors": [Computer Science, Software Engineering],
+    "Majors": [Networking, Software Engineering],
     "Major_detail": [
         "I initially chose ME in my freshman",
         "Since my sophomore, I had started self-studying CS and would love to develop further in this major."
