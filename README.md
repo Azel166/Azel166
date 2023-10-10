@@ -17,12 +17,10 @@
 Profile = {
     "Names": ["Dat", "Bui Huu", "Bùi Hữu Đạt"],
     "Nationality": ["Vietnam", "Việt Nam"],
-    "Majors": [Networking, Software Engineering],
+    "Majors": [Networking, Information Technology],
     "Major_detail": [
-        "I initially chose ME in my freshman",
-        "Since my sophomore, I had started self-studying CS and would love to develop further in this major."
     ],
-    "Current_focused_fields": [Algorithms & Data Structure, Frontend, Backend],
+    "Current_focused_fields": [Business Analyst, Frontend, Backend],
     "University": ["HANU"," Hanoi University"]
     "Degree": "Bachelor of Information Technology"
 }
