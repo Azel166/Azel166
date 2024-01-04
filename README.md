@@ -19,10 +19,11 @@ Profile = {
     "Nationality": ["Vietnam", "Việt Nam"],
     "Majors": [Information Technology, Networking],
     "Major_detail": [
-    ],
-    "Current_focused_fields": [Networking, Business Analyst, Data Analyst],
+    "Current_focused_fields": [Networking, Business Analyst, Data Analyst]
     "University": ["HANU"," Hanoi University"]
     "Degree": "Bachelor of Information Technology"
+    ],
+    "English": [PTE 60]
 }
 ```
 
