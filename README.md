@@ -15,7 +15,7 @@
 
 ```Python
 Profile = {
-    "Names": ["Dat", "Bui Huu", "Bùi Hữu Đạt"],
+    "Names": ["Dat", "Huu Bui", "Bùi Hữu Đạt"],
     "Nationality": ["Vietnam", "Việt Nam"],
     "Majors": [Information Technology, Networking],
     "Major_detail": [
